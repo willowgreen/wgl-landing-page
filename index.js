@@ -1,4 +1,9 @@
-exports.generate = (title, version, body = '<a href="/api">go to /api</a>') => {
+const pkg = require("./package.json");
+exports.generate = (
+  title = pkg.name,
+  version = pkg.version,
+  body = '<a href="/api">go to /api</a>'
+) => {
   return `
   <html>
       <head>
