@@ -1,6 +1,6 @@
 {
   "name": "@willowgreen/wgl-landing-page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Willowgreen landing page",
   "main": "index.js",
   "scripts": {
