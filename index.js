@@ -1,7 +1,7 @@
-const pkg = require("./package.json");
+exports.version = require("./package.json").version;
 exports.generate = (
-  title = pkg.name,
-  version = pkg.version,
+  title = "wgl-landing-page",
+  version = this.version,
   body = '<a href="/api">go to /api</a>'
 ) => {
   return `
