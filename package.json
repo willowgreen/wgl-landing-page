@@ -1,0 +1,19 @@
+{
+  "name": "@willowgreen/wgl-landing-page",
+  "version": "1.0.0",
+  "description": "Willowgreen landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willowgreengroup/wgl-landing-page.git"
+  },
+  "author": "Willowgreen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/willowgreengroup/wgl-landing-page/issues"
+  },
+  "homepage": "https://github.com/willowgreengroup/wgl-landing-page#readme"
+}
