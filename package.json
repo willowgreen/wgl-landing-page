@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/willowgreengroup/wgl-landing-page/issues"
   },
-  "homepage": "https://github.com/willowgreengroup/wgl-landing-page#readme"
+  "homepage": "https://github.com/willowgreengroup/wgl-landing-page#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {}
 }
