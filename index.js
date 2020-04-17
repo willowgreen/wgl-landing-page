@@ -1,7 +1,6 @@
-exports.version = require("./package.json").version;
-exports.generate = (
-  title = "wgl-landing-page",
-  version = this.version,
+module.exports.generate = (
+  title = "title",
+  version = "1.0.0",
   body = '<a href="/api">go to /api</a>'
 ) => {
   return `
