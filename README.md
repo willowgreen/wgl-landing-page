@@ -11,7 +11,7 @@ A simple HTML landing page for use in Node applications.
 
 
 ## Getting started
-```
+```bash
 $ npm install @willowgreen/wgl-landing-page
 ```
 Then you can:
