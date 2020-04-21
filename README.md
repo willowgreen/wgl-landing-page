@@ -1,7 +1,7 @@
 <a href="https://willowgreen.io/opensource"><img src="https://i.imgur.com/PT3baDY.png" alt="Willowgreen Open Source logo" width="500px"></a><br>
 
 # wgl-landing-page
-![npm](https://img.shields.io/npm/v/@willowgreen/wgl-landing-page?style=flat-square)
+<a href="https://www.npmjs.com/package/@willowgreen/wgl-landing-page"><img src="https://img.shields.io/npm/v/@willowgreen/wgl-landing-page?style=flat-square" alt="npm"></a>
 
 A simple HTML landing page for use in Node applications.
 
